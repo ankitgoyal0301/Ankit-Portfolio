@@ -1,0 +1,107 @@
+.logo_wrapper {
+  height: 100vh;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+}
+
+.screen {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.screen {
+  /* background-color: #55198b; */
+  display: flex;
+  flex-direction: column; /* Arrange children in a column */
+  justify-content: center; /* Center vertically */
+  align-items: center; /* Center horizontally */
+  overflow: hidden;
+  border-radius: 100%;
+  animation: grow 5.5s forwards;
+}
+
+.name-text{
+  font-family: "Agustina Regular";
+  padding: 70px 10px;
+  font-size: 3rem;
+  overflow: hidden; /* Ensures the text is not visible outside the container */
+  white-space: nowrap; /* Keeps the text on a single line */
+  border-right: 0.15em solid white; /* The caret */
+  animation: typing 1.5s steps(11, end), blink-caret 0.75s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0; }
+  to { width:20rem; }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent; }
+  50% { border-color: white; }
+}
+
+.name-logo{
+  width: 100%; /* Default width for smaller screens */
+  height: auto; /* Maintain aspect ratio */
+  max-width: 200px; /* Maximum width for larger screens */
+}
+
+@media (min-width: 600px) {
+  .name-logo {
+    max-width: 150px; /* Adjust for medium screens */
+  }
+}
+
+@media (min-width: 768px) {
+  .name-logo {
+    max-width: 200px; /* Adjust for larger screens */
+  }
+}
+
+@media (min-width: 1024px) {
+  .name-logo {
+    max-width: 250px; /* Adjust for extra large screens */
+  }
+}
+
+
+@keyframes grow {
+  0% {
+    transform: scale(0);
+  }
+  10% {
+    transform: scale(1);
+    border-radius: 0%;
+    height: 100%;
+    width: 100%;
+  }
+  90% {
+    transform: scale(1);
+    border-radius: 0%;
+    height: 100%;
+    width: 100%;
+  }
+  100% {
+    transform: scale(0);
+    transform-origin: 50% 50%;
+    border-radius: 100%;
+  }
+}
+
+#logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
