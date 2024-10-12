@@ -30,7 +30,7 @@ const greeting = {
   resumeLink:
     "https://drive.google.com/file/d/1DUaGsveiVjDJpYuvKomF5OsEUrCvcBlk/view?usp=sharing",
   // TODO
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  portfolio_repository: "https://github.com/ankitgoyal0301/Ankit-Portfolio",
   githubProfile: "https://github.com/ankitgoyal0301",
 };
 
