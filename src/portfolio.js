@@ -23,7 +23,7 @@ const seo = {
 const greeting = {
   title: "Ankit Goyal",
   logo_name: "Ankit Goyal",
-  nickname: "Software Development Engineer",
+  nickname: "Software Engineer",
   // TODO
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
