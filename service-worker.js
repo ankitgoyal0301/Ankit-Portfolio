@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Ankit-Portfolio/precache-manifest.12f3357e7a49fc9b92316a053add970d.js"
+  "/Ankit-Portfolio/precache-manifest.60f4c6073f44ce9573e15ecee5861e74.js"
 );
 
 self.addEventListener('message', (event) => {
