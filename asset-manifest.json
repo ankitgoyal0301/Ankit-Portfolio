@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Ankit-Portfolio/static/css/main.c3d5beb4.chunk.css",
-    "main.js": "/Ankit-Portfolio/static/js/main.6fdd6ea2.chunk.js",
-    "main.js.map": "/Ankit-Portfolio/static/js/main.6fdd6ea2.chunk.js.map",
+    "main.js": "/Ankit-Portfolio/static/js/main.80581c2d.chunk.js",
+    "main.js.map": "/Ankit-Portfolio/static/js/main.80581c2d.chunk.js.map",
     "runtime-main.js": "/Ankit-Portfolio/static/js/runtime-main.5a3bafba.js",
     "runtime-main.js.map": "/Ankit-Portfolio/static/js/runtime-main.5a3bafba.js.map",
     "static/js/2.ee69921d.chunk.js": "/Ankit-Portfolio/static/js/2.ee69921d.chunk.js",
     "static/js/2.ee69921d.chunk.js.map": "/Ankit-Portfolio/static/js/2.ee69921d.chunk.js.map",
     "index.html": "/Ankit-Portfolio/index.html",
-    "precache-manifest.9ca03798e0c52451ab7b1bc84ef3cb8f.js": "/Ankit-Portfolio/precache-manifest.9ca03798e0c52451ab7b1bc84ef3cb8f.js",
+    "precache-manifest.e2953556ae5e39a56c6b990fb65f43e7.js": "/Ankit-Portfolio/precache-manifest.e2953556ae5e39a56c6b990fb65f43e7.js",
     "service-worker.js": "/Ankit-Portfolio/service-worker.js",
     "static/css/main.c3d5beb4.chunk.css.map": "/Ankit-Portfolio/static/css/main.c3d5beb4.chunk.css.map",
     "static/media/index.css": "/Ankit-Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -82,6 +82,6 @@
     "static/js/runtime-main.5a3bafba.js",
     "static/js/2.ee69921d.chunk.js",
     "static/css/main.c3d5beb4.chunk.css",
-    "static/js/main.6fdd6ea2.chunk.js"
+    "static/js/main.80581c2d.chunk.js"
   ]
 }
