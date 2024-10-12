@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Ankit-Portfolio/static/css/main.c3d5beb4.chunk.css",
-    "main.js": "/Ankit-Portfolio/static/js/main.474cbe19.chunk.js",
-    "main.js.map": "/Ankit-Portfolio/static/js/main.474cbe19.chunk.js.map",
+    "main.js": "/Ankit-Portfolio/static/js/main.6fdd6ea2.chunk.js",
+    "main.js.map": "/Ankit-Portfolio/static/js/main.6fdd6ea2.chunk.js.map",
     "runtime-main.js": "/Ankit-Portfolio/static/js/runtime-main.5a3bafba.js",
     "runtime-main.js.map": "/Ankit-Portfolio/static/js/runtime-main.5a3bafba.js.map",
-    "static/js/2.77aab95b.chunk.js": "/Ankit-Portfolio/static/js/2.77aab95b.chunk.js",
-    "static/js/2.77aab95b.chunk.js.map": "/Ankit-Portfolio/static/js/2.77aab95b.chunk.js.map",
+    "static/js/2.ee69921d.chunk.js": "/Ankit-Portfolio/static/js/2.ee69921d.chunk.js",
+    "static/js/2.ee69921d.chunk.js.map": "/Ankit-Portfolio/static/js/2.ee69921d.chunk.js.map",
     "index.html": "/Ankit-Portfolio/index.html",
-    "precache-manifest.60f4c6073f44ce9573e15ecee5861e74.js": "/Ankit-Portfolio/precache-manifest.60f4c6073f44ce9573e15ecee5861e74.js",
+    "precache-manifest.90176fac9305f2ac76737ea9324c1108.js": "/Ankit-Portfolio/precache-manifest.90176fac9305f2ac76737ea9324c1108.js",
     "service-worker.js": "/Ankit-Portfolio/service-worker.js",
     "static/css/main.c3d5beb4.chunk.css.map": "/Ankit-Portfolio/static/css/main.c3d5beb4.chunk.css.map",
     "static/media/index.css": "/Ankit-Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -80,8 +80,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5a3bafba.js",
-    "static/js/2.77aab95b.chunk.js",
+    "static/js/2.ee69921d.chunk.js",
     "static/css/main.c3d5beb4.chunk.css",
-    "static/js/main.474cbe19.chunk.js"
+    "static/js/main.6fdd6ea2.chunk.js"
   ]
 }

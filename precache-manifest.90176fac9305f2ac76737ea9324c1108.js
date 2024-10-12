@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e57e1d493a8e34ccf63df97c5d026fc",
+    "revision": "b2e809bb7560a286c533d10613bfe28c",
     "url": "/Ankit-Portfolio/index.html"
   },
   {
-    "revision": "e1d65e078ef5159732a3",
+    "revision": "4fc89b778658ab260547",
     "url": "/Ankit-Portfolio/static/css/main.c3d5beb4.chunk.css"
   },
   {
-    "revision": "c5190a9d5bc517667cdd",
-    "url": "/Ankit-Portfolio/static/js/2.77aab95b.chunk.js"
+    "revision": "4cce80d5d93cf92a4a36",
+    "url": "/Ankit-Portfolio/static/js/2.ee69921d.chunk.js"
   },
   {
-    "revision": "e1d65e078ef5159732a3",
-    "url": "/Ankit-Portfolio/static/js/main.474cbe19.chunk.js"
+    "revision": "4fc89b778658ab260547",
+    "url": "/Ankit-Portfolio/static/js/main.6fdd6ea2.chunk.js"
   },
   {
     "revision": "b0994655cf8cc95bb23e",
